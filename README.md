@@ -1,6 +1,7 @@
-## Hey there , it's codingManatee here 👋
+## Hey there , it's `codingManatee` here 👋
 
-- Currently studying Computer Engineering at Chulalongkorn University.
+- Currently sleeping.
+- Studying Computer Engineering at Chulalongkorn University.
 
 ## Skills
 
