@@ -1,7 +1,8 @@
 ## Hey there , it's `codingManatee` here 👋
-
+![](https://github.com/codingManatee/codingManatee/blob/main/manatee.gif)
 - Currently sleeping.
 - Studying Computer Engineering at Chulalongkorn University.
+  
 
 ## Skills
 
