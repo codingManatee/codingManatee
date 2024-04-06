@@ -1,4 +1,4 @@
-## Hi!, I am codingManatee 👋
+## Hey there , it's codingManatee here 👋
 
 - Currently studying Computer Engineering at Chulalongkorn University.
 
